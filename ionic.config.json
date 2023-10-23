@@ -1,0 +1,7 @@
+{
+  "name": "p5js-in-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
